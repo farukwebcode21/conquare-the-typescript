@@ -9,4 +9,5 @@ const heroObj: {
   profession: "Actor",
 };
 
+heroObj.name = "Faruk Ahmad";
 console.log(heroObj);
